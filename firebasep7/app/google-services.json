@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339326491604",
+    "project_id": "babayan123-b78dd",
+    "storage_bucket": "babayan123-b78dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339326491604:android:b2860cf9573ba7e3795441",
+        "android_client_info": {
+          "package_name": "com.example.firebasep7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpob9Us0n8GpNCM8DOlEcILLdeoRKpt5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
